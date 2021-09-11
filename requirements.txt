@@ -1,0 +1,3 @@
+numpy >= 1.16.2
+RPI.GPIO >= 0.7.0
+pyserial >= 3.4
